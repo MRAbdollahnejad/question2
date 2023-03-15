@@ -7,11 +7,11 @@ public class MetalElement extends Element{
 
     @Override
     public void describeElement() {
-        System.out.println("NonMetalElement{" +
+        System.out.println("MetalElement{" +
                 "symbol='" + symbol + '\'' +
                 ", atomicNumber=" + atomicNumber +
                 ", atomicWeight=" + atomicWeight +
-                "metals are good conductors of " +
+                "  metals are good conductors of " +
                 "electricity"+
                 '}');
     }

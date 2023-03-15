@@ -11,7 +11,7 @@ public class NonMetalElement extends Element{
                 "symbol='" + symbol + '\'' +
                 ", atomicNumber=" + atomicNumber +
                 ", atomicWeight=" + atomicWeight +
-                "nonmetals are poor conductors of " +
+                "  nonmetals are poor conductors of " +
                 "electricity"+
                 '}');
     }
